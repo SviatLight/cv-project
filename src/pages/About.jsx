@@ -14,13 +14,13 @@ const About = () => {
           <div className="sm:text-right text-4xl font-bold">
             <p>Hi, I'm Sviatoslav, nice to meet you. Please take a look around.</p>
           </div>
-          <div className="">
+          <div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eos labore aut nemo
-              accusamus tempore, expedita tenetur velit, assumenda perspiciatis facere, deleniti
-              maiores nulla dignissimos enim possimus. In asperiores quisquam eius praesentium dicta
-              ducimus quo, iusto consequuntur nulla consequatur, aperiam explicabo fuga magnam
-              voluptatem vero et, necessitatibus similique qui aut corrupti?
+              I'm 19 y.o., and I am recent college graduate. During college I have taken active part
+              in creating and supporting website for my educational establishment. I took part in
+              different very interesting projects like online store or water control. I'm studing in
+              university. I would like to find a job where I can improve my skill. I'm ready to do
+              test task if you need it!
             </p>
           </div>
         </div>

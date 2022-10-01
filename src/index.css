@@ -12,6 +12,13 @@
     @apply px-4;
     @apply cursor-pointer;
   }
+  body::-webkit-scrollbar {
+    display: none;
+  }
+  body {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
 }
 
 .content-div {
