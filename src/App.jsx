@@ -2,14 +2,14 @@ import React from 'react';
 import './App.css';
 import About from './pages/About';
 import Home from './pages/Home';
-import Navbar from './components/Navbar';
 import Skills from './pages/Skills';
 import Work from './pages/Work';
+import MainHeader from './components/MainHeader';
 
 const App = () => {
   return (
     <div className="App">
-      <Navbar />
+      <MainHeader />
       <Home />
       <About />
       <Skills />
